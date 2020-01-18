@@ -14,4 +14,4 @@ To run the code start in the main directory and use the following command/format
   
 You will be prompted to enter input:  
 Input format example (can copy and paste this below): (12, 10) (12, 11) (12, 12) (12, 13) (12, 14)  
-Enter starting seed (use above format): (12, 10) (12, 11) (12, 12) (12, 13) (12, 14)
+Enter starting seed (use above format): *user input goes here*
